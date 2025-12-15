@@ -9,9 +9,9 @@ Android εφαρμογή για το παραδοσιακό κυπριακό π�
 - Υποστήριξη για AdMob διαφημίσεις
 
 ## 📄 Συμμόρφωση AdMob
-Το repository περιέχει το αρχείο `app-ads.txt` για επαλήθευση στο AdMob.  
+Το repository περιέχει το αρχείο `app-ads.txt` για επαλήθευση στο AdMob.    
 Δημόσια διεύθυνση:  
-[app-ads.txt](https://andreakomodromos90b-art.github.io/pilotta-cy/app-ads.txt)
+[app-ads.txt](https://andreaskomodromos90b-art.github.io/pilotta-cy/app-ads.txt)
 
 ## 📱 Τεχνολογίες
 - Java / Kotlin (Android SDK)
