@@ -1,7 +1,7 @@
 # Πιλόττα Κύπρου (Pilotta CY)
 
 Android εφαρμογή για το παραδοσιακό κυπριακό παιχνίδι **Πιλόττα**.  
-Υποστηρίζει **offline bot mode** και σχεδιάζεται η προσθήκη **online multiplayer mode**.
+Υποστηρίζει **offline bot mode** 
 
 ## 🔹 Χαρακτηριστικά
 - Παιχνίδι με bot (offline mode)
